@@ -7,8 +7,9 @@ An API program for the Department of Education
 * Train agency staff to use the API capacity - _[tasks](https://github.com/18F/ED-API-Program/labels/training)_
 * Coordinate on a complete rollout for dataset - _[tasks](https://github.com/18F/ED-API-Program/labels/dataset%20rollout)_
 * Enable the agency to internatize the entire program - _[tasks](https://github.com/18F/ED-API-Program/labels/handoff)_
-* Encourage open source at the agency - _[tasks](https://github.com/18F/ED-API-Program/issues?q=is%3Aissue+is%3Aopen+label%3A%22open+source%22)_
-* Administrative work - _[tasks](https://github.com/18F/ED-API-Program/issues?q=is%3Aopen+is%3Aissue+label%3Aadministrative)_
+* _General implementation_ - _[tasks](https://github.com/18F/ED-API-Program/labels/general%20implementation)_
+* _Encourage open source at the agency_ - _[tasks](https://github.com/18F/ED-API-Program/issues?q=is%3Aissue+is%3Aopen+label%3A%22open+source%22)_
+* _Administrative work_ - _[tasks](https://github.com/18F/ED-API-Program/issues?q=is%3Aopen+is%3Aissue+label%3Aadministrative)_
 
 ## Deliverables
 
