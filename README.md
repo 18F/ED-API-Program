@@ -1,7 +1,7 @@
 # ED-API-Program
 An API program for the Department of Education
 
-## Project Overview 
+## Project Overview - _[outline](https://pages.18f.gov/api-program/project-outline/)_
 * Launch an API capacity for the agency - _[tasks](https://github.com/18F/ED-API-Program/issues?q=is%3Aopen+is%3Aissue+label%3A%22api+engine%22)_
 * Build a revamped developer hub for the agency - _[tasks](https://github.com/18F/ED-API-Program/labels/developer%20hub)_
 * Train agency staff to use the API capacity - _[tasks](https://github.com/18F/ED-API-Program/labels/training)_
