@@ -14,4 +14,23 @@ An API program for the Department of Education
 
 ## Deliverables
 
-_Direct links to deliverables will be placed here._
+_Direct links to deliverables will be added as they become available._
+
+* API rollout plan 
+* Developer engagement plan
+* Hosted autoapi
+* Successfully launched API 
+  * API documentation for said API 
+* ed.gov/developers proposal 
+* Guidance on setting up monitoring 
+* Documentation for transitioning the API
+* Other resources:
+  * Template API standards
+  * Sample contract language 
+  * Sample API requirements 
+  * General agency checklist
+  * General agency strategy
+  * API primer for contracting officers 
+  * Guide to ensuring discoverability 
+  
+  
