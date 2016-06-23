@@ -1,5 +1,5 @@
 # ED-API-Program
-An API program for the Department of Education
+An API program for the Department of Education, based on the [18F service](https://pages.18f.gov/api-program/).  
 
 ## Project Overview - _[outline](https://pages.18f.gov/api-program/project-outline/)_
 * Launch an API capacity for the agency - _[tasks](https://github.com/18F/ED-API-Program/issues?q=is%3Aopen+is%3Aissue+label%3A%22api+engine%22)_
