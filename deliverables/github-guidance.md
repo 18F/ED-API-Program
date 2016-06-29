@@ -1,4 +1,4 @@
-# _A template for GitHub guidance that can be used by an agenc _
+# _A template for GitHub guidance that can be used by an agency_
 
 
 # Using GitHub
