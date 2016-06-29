@@ -1,5 +1,6 @@
-# _A template for GitHub guidance that can be used by an agency - derived from the [FISMA-READY project](https://github.com/fisma-ready/github)_ 
+_A template for GitHub guidance that can be used by an agency - derived from the [FISMA-READY project](https://github.com/fisma-ready/github)_ 
 
+-----------------
 
 # Using GitHub
 
