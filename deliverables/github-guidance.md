@@ -4,7 +4,7 @@ _A template for GitHub guidance that can be used by an agency - derived from the
 
 # Using GitHub
 
-These are the requirements to join our GitHub organization. None are optional, and everyone on staff _must_ have a GitHub account.
+These are the requirements to join our GitHub organization. None are optional, and everyone on staff who uses GitHub for work should follow them and be a member of our GitHub organization.  
 
 ## Creating and customizing an account 
 
