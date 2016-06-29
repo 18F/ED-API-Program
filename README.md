@@ -16,6 +16,7 @@ An API program for the Department of Education, based on the [18F service](https
 
 _Direct links to deliverables will be added as they become available._
 
+* [Project Timeline](https://github.com/18F/ED-API-Program/blob/master/deliverables/timeline.md)
 * API rollout plan 
 * Developer engagement plan
 * Hosted autoapi
