@@ -10,8 +10,14 @@ The below should strive to encompass all of the information and workflows of the
 | https://api.ed.gov/data  | Redirects to the developer hub  |
 | https://api.ed.gov/data/k-12/schools/list  | Return list of k-12 in the United States  |
 | https://api.ed.gov/data/college/schools/list  |  Return list of colleges and universities in the United States |
-| https://api.ed.gov/data/college/finance  |   |
-| https://api.ed.gov/systems/college/  |   |
+| https://api.ed.gov/data/college/studentaid/default-rate  |   |
 
+| https://api.ed.gov/systems/college/fafsa/file  | Submit a FAFSA application  |
+| https://api.ed.gov/systems/college/fafsa/update  |  Correct a FAFSA application  |
+| https://api.ed.gov/systems/college/fafsa/view  |  View a FAFSA application  |
+
+| https://api.ed.gov/documents  |  Redirects to the developer hub |
+| https://api.ed.gov/documents?tag=guide+studentaid  |   |
+| https://api.ed.gov/documents?id=32330  |   |
 
 
