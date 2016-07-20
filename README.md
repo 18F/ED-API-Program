@@ -28,9 +28,8 @@ _Direct links to deliverables will be added as they become available._
 * Documentation for transitioning the API
 * Other resources:
   * Template API standards
-  * Sample contract language 
   * [Sample API requirements](https://github.com/18F/ED-API-Program/blob/master/deliverables/sample-api-requirements.md)
-  * General agency checklist
+  * [General agency checklist](https://github.com/18F/ED-API-Program/blob/master/deliverables/program-checklist.md)
   * [General agency strategy - how to get started with APIs](https://github.com/18F/ED-API-Program/blob/master/deliverables/guide-get-started-with-apis.md)
   * API primer for contracting officers 
   * [Guide to ensuring discoverability](https://github.com/18F/ED-API-Program/blob/master/deliverables/discoverability-guide.md)
