@@ -29,7 +29,7 @@ _Direct links to deliverables will be added as they become available._
 * Other resources:
   * Template API standards
   * Sample contract language 
-  * Sample API requirements 
+  * [Sample API requirements](https://github.com/18F/ED-API-Program/blob/master/deliverables/sample-api-requirements.md)
   * General agency checklist
   * [General agency strategy - how to get started with APIs](https://github.com/18F/ED-API-Program/blob/master/deliverables/guide-get-started-with-apis.md)
   * API primer for contracting officers 
