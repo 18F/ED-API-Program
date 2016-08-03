@@ -1,16 +1,10 @@
 _Under construction_
 
 ------------------------
-
-
   
 ## Summary  
 
-Across the Internet and throughout each sector of business, the central role of APIs in the digital revolution cannot be overstated.  This document details a path for [AGENCY]’s adoption and integration of APIs.  
-
-## Background 
-
-[Add in policy directives driving APIs]
+Across the Internet and throughout each sector of business, the central role of APIs in the digital revolution cannot be overstated.  This document details a path for ED's adoption and integration of APIs.  
 
 ## Goals  
 
@@ -84,7 +78,7 @@ APIs:
 * Mod existing contracts to bring into relevance
 * Content API
 * Write APIs - First pass
-* Review the Agency Maturity Model and take into account for [AGENCY].  Focus on each of the areas and discuss direction with stakeholders.  
+* Review the Agency Maturity Model and take into account for ED.  Focus on each of the areas and discuss direction with stakeholders.  
 * formalize security 
 * formalize legal 
 * Open Source API engine 
@@ -117,10 +111,3 @@ APIs:
 * Take advantage of trainings and supports.  
 * Share updates on listserve.  
   
-
-
-
-
-
-
-
