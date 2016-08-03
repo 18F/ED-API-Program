@@ -36,5 +36,6 @@ _Direct links to deliverables will be added as they become available._
   * [Template GitHub Guidance](https://github.com/18F/ED-API-Program/blob/master/deliverables/github-guidance.md)
   * [A hosted secure credentials messaging service](https://fugacious.18f.gov/)
   * [API deprecation plan](https://github.com/18F/ED-API-Program/blob/master/deliverables/api-deprecation-plan.md)
+  * [AutoAPI test plan](https://github.com/18F/ED-API-Program/blob/master/deliverables/test-plan.md)
   
   
