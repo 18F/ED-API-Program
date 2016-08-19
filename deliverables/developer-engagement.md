@@ -17,3 +17,18 @@
 * Ask the developer community what data they most want but don't have and what improvements to existing data would be most useful to them.  Then, follow through on that and report back that you have.  
 * Attend third-party developer events, such as local meetups and open government conferences.  
 * At other events, present on your data and ask for feedback, then make a targeted point to respond to it.  
+
+
+### August 2016 Proposal
+
+* Coordinate with data owners to pick 3-5 datasets to include in the v0.1 API release.
+* Launch and Test the APIs internally 
+* Document the APIs in the Developer Hub
+* Settle on v0.1 Developer Hub components
+* Perform an API Usability Session 
+  * Tweak the Developer Hub
+* Engage the beta testers from the College Scorecard project, asking them for feedback
+  * Tweak the Developer Hub 
+* Evaluate Release Plans 
+
+
