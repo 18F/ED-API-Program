@@ -25,7 +25,7 @@
 * Launch and Test the APIs internally 
 * Document the APIs in the Developer Hub
 * Settle on v0.1 Developer Hub components
-* Perform an API Usability Session 
+* Perform an [API Usability Session](https://pages.18f.gov/API-Usability-Testing/) 
   * Tweak the Developer Hub
 * Engage the beta testers from the College Scorecard project, asking them for feedback
   * Tweak the Developer Hub 
