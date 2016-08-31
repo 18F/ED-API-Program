@@ -34,6 +34,7 @@ _Direct links to deliverables will be added as they become available._
   * [API Strategy for ED](https://github.com/18F/ED-API-Program/blob/master/deliverables/agency-strategy.md)
   * API primer for contracting officers 
   * [Guide to ensuring discoverability](https://github.com/18F/ED-API-Program/blob/master/deliverables/discoverability-guide.md)
+  * [Proposal for an MVP of a developer hub without APIs](https://pages.18f.gov/API-All-the-X/mvp-developer-hub/)
   * [Developer Hub Notes](https://github.com/18F/ED-API-Program/blob/master/deliverables/develop-hub-notes.md)
   * [Template GitHub Guidance](https://github.com/18F/ED-API-Program/blob/master/deliverables/github-guidance.md)
   * [A hosted secure credentials messaging service](https://fugacious.18f.gov/)
