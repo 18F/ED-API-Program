@@ -37,6 +37,7 @@ _Direct links to deliverables will be added as they become available._
   * [Proposal for an MVP of a developer hub without APIs](https://pages.18f.gov/API-All-the-X/mvp-developer-hub/)
   * [Developer Hub Notes](https://github.com/18F/ED-API-Program/blob/master/deliverables/develop-hub-notes.md)
   * [Template GitHub Guidance](https://github.com/18F/ED-API-Program/blob/master/deliverables/github-guidance.md)
+  * [Guide to Setting Up GitHub at your Agency](https://pages.18f.gov/open-source-program/setting-up-github/)
   * [A hosted secure credentials messaging service](https://fugacious.18f.gov/)
   * [API deprecation plan](https://github.com/18F/ED-API-Program/blob/master/deliverables/api-deprecation-plan.md)
   * [AutoAPI test plan](https://github.com/18F/ED-API-Program/blob/master/deliverables/test-plan.md)
