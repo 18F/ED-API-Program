@@ -10,20 +10,13 @@ _under construction_
 ####  Benefits
 
 * [Benefits of Open Source Documentation](https://pages.18f.gov/API-All-the-X/pages/open_source_documentation/)
-* []()
-* []()
 
 ### Creating a microsite
 
-* []()
-* []()
-* []()
+* [GitHub Pages Documentation](https://pages.github.com/)
 
 ### Editing a microsite
 
-* []()
-* []()
-* []()
 
 ### Creating a new page
 
@@ -31,7 +24,7 @@ Once a microsite is live, creating a new page is as simple as creating a new fil
 
 * It's a best practice to create and use a `/pages/` folder to put these files so that they are contained in one place.  
 * The file should be called _name-of-file.md_.  You could instead be an entire `HTML` file called _name-of-file.html_ but that is usually less convenient.  
-* You will need to include certain:
+* You will need to include certain metadata:
 
 ````
 ---
@@ -40,6 +33,7 @@ title: API Basics
 nav: basics
 permalink: /basics/
 ---
+
 ````
 
 
