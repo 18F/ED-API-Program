@@ -21,18 +21,18 @@ _Direct links to deliverables will be added as they become available._
 * [Developer engagement plan](https://github.com/18F/ED-API-Program/blob/master/deliverables/developer-engagement.md)
 * [Hosted autoapi](https://autoapi-ed.apps.cloud.gov/swagger-ui/)
 * Successfully launched API 
-  * API documentation for said API 
-* ed.gov/developers proposal 
-  * API Feedback Engine
+  * [API documentation for said API](https://pages.18f.gov/ED-Developer-Hub/apiList.html) 
+* [ed.gov/developers proposal](https://pages.18f.gov/ED-Developer-Hub/) 
+  * [API Feedback Engine](https://github.com/18F/ED-Developer-Hub/issues)
 * Guidance on setting up monitoring 
 * Documentation for transitioning the API
 * Other resources:
-  * Template API standards
+  * [Template API standards](https://github.com/18F/ED-API-Program/blob/master/deliverables/api-standards.md)
   * [Sample API requirements](https://github.com/18F/ED-API-Program/blob/master/deliverables/sample-api-requirements.md)
   * [General agency checklist](https://github.com/18F/ED-API-Program/blob/master/deliverables/program-checklist.md)
   * [General agency strategy - how to get started with APIs](https://github.com/18F/ED-API-Program/blob/master/deliverables/guide-get-started-with-apis.md)
   * [API Strategy for ED](https://github.com/18F/ED-API-Program/blob/master/deliverables/agency-strategy.md)
-  * API primer for contracting officers 
+  * [API primer for contracting officers](https://github.com/18F/ED-API-Program/blob/master/deliverables/api-primer-COs.md)  
   * [Guide to ensuring discoverability](https://github.com/18F/ED-API-Program/blob/master/deliverables/discoverability-guide.md)
   * [Proposal for an MVP of a developer hub without APIs](https://pages.18f.gov/API-All-the-X/mvp-developer-hub/)
   * [Developer Hub Notes](https://github.com/18F/ED-API-Program/blob/master/deliverables/develop-hub-notes.md)
